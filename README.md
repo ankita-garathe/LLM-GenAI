@@ -40,5 +40,3 @@ This project demonstrates how to integrate Google's Gemini AI API with JavaScrip
 ## Security
 The API key is stored in an environment variable and is not committed to GitHub.
 
-## Author
-Your Name
